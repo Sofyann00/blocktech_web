@@ -11,44 +11,44 @@ export function Footer() {
             <div className="flex items-center gap-x-2">
               <img 
                 src="/app_icon.png" 
-                alt="BlockTech Logo"
+                alt="SneakerSpot Logo"
                 width={32}
                 height={32}
               />
-              <span className="text-xl font-bold">BlockTech</span>
+              <span className="text-xl font-bold">SneakerSpot</span>
             </div>
             <p className="mt-4 text-sm text-muted-foreground leading-relaxed">
-              Empowering businesses with cutting-edge GPU solutions and enterprise-grade 
-              mini servers. Your trusted partner in building scalable computing infrastructure.
+              Your premier destination for authentic Adidas footwear. Discover the latest 
+              collections, limited editions, and classic favorites all in one place.
             </p>
           </div>
 
-          {/* Solutions */}
+          {/* Solutions -> Products */}
           <div className="col-span-1">
-            <h3 className="text-lg font-semibold mb-6">Solutions</h3>
+            <h3 className="text-lg font-semibold mb-6">Products</h3>
             <ul className="space-y-4">
               <li>
                 <Link
-                  href="/enterprise"
+                  href="/running"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Enterprise Solutions
+                  Running Shoes
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/marketplace"
+                  href="/lifestyle"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  GPU Marketplace
+                  Lifestyle Sneakers
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/consulting"
+                  href="/sports"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Technical Consulting
+                  Sports Collection
                 </Link>
               </li>
             </ul>
@@ -68,18 +68,18 @@ export function Footer() {
               </li>
               <li>
                 <Link
-                  href="/terms"
+                  href="/size-guide"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Terms of Service
+                  Size Guide
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/privacy"
+                  href="/shipping"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Privacy Policy
+                  Shipping Info
                 </Link>
               </li>
             </ul>
@@ -94,29 +94,29 @@ export function Footer() {
                 <div className="space-y-2">
                   <p>
                     <a
-                      href="mailto:admin@blocktech.com"
+                      href="mailto:info@sneakerspot.com"
                       className="hover:text-foreground transition-colors"
                     >
-                      admin@blocktech.com
+                      info@sneakerspot.com
                     </a>
                   </p>
                   <p>
                     <a
-                      href="tel:+6281572136072"
+                      href="tel:+6281234567890"
                       className="hover:text-foreground transition-colors"
                     >
-                      (021) 50111528
+                      (021) 1234567
                     </a>
                   </p>
                 </div>
               </div>
               <div className="text-sm text-muted-foreground">
-                <p className="font-medium text-foreground mb-2">Office</p>
+                <p className="font-medium text-foreground mb-2">Store Location</p>
                 <p className="leading-relaxed">
-                  Komplek Perkantoran Duta Merlin Blok F13,<br />
-                  Jalan Gajah Mada, Petojo Utara,<br />
-                  Gambir, Jakarta Pusat,<br />
-                  DKI Jakarta
+                  Grand Indonesia Mall<br />
+                  Level 1 Unit A1-15<br />
+                  Jl. M.H. Thamrin No.1<br />
+                  Jakarta Pusat
                 </p>
               </div>
             </div>
@@ -125,7 +125,7 @@ export function Footer() {
 
         <div className="mt-16 pt-8 border-t">
           <p className="text-sm text-muted-foreground text-center">
-            © {new Date().getFullYear()} PT Lentera Teknologi System. All rights reserved.
+            © {new Date().getFullYear()} SneakerSpot Indonesia. All rights reserved.
           </p>
         </div>
       </div>
