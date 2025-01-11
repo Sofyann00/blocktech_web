@@ -99,6 +99,22 @@ export const products: Product[] = [
     image: "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwadaf81df/zoom/BA9397_01_standard.jpg?sh=512",
     category: "Lifestyle",
   },
+  {
+    id: 13,
+    name: "Adidas Cushioned Crew Socks (3 Pairs)",
+    description: "Comfortable athletic socks with moisture-wicking technology",
+    price: 199000,
+    image: "https://www.adidas.co.id/media/catalog/product/h/t/ht1644_1_hardware_photography_side_center_view_grey.jpg",
+    category: "Accessories",
+  },
+  {
+    id: 14,
+    name: "Adidas Premium Shoelaces",
+    description: "Durable flat shoelaces for running and lifestyle shoes",
+    price: 99000,
+    image: "https://www.lacesmatched.co.uk/wp-content/uploads/2017/10/120-cm-white-shoelaces-3.png",
+    category: "Accessories",
+  },
 ];
 
 // Helper function to format price in IDR
