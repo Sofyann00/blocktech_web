@@ -113,10 +113,12 @@ export function Footer() {
               <div className="text-sm text-muted-foreground">
                 <p className="font-medium text-foreground mb-2">Store Location</p>
                 <p className="leading-relaxed">
-                  Grand Indonesia Mall<br />
-                  Level 1 Unit A1-15<br />
-                  Jl. M.H. Thamrin No.1<br />
-                  Jakarta Pusat
+                  Komplek Perkantoran Duta Merlin Blok F13<br />
+                  Jalan Gajah Mada<br />
+                  Desa/Kelurahan Petojo Utara, Kec. Gambir<br />
+                  Kota Adm. Jakarta Pusat<br />
+                  Provinsi DKI Jakarta<br />
+                  Kode Pos: 10130
                 </p>
               </div>
             </div>
