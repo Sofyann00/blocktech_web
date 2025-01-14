@@ -23,7 +23,7 @@ export default function PrivacyPage() {
                 1. Information We Collect
               </h2>
               <p className="text-muted-foreground">
-                PT Lentera Teknologi System (&quot;blocktech&quot;) collects personal information including but not limited to: name, email address, phone number, shipping address, and payment information when you make a purchase or create an account.
+                PT SOLUSINDO INTEGRA TEKNOLOGI (&quot;blocktech&quot;) collects personal information including but not limited to: name, email address, phone number, shipping address, and payment information when you make a purchase or create an account.
               </p>
             </div>
 
