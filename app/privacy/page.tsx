@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy - PT Rantai Angka Teknologi',
+  title: 'Privacy Policy - PT SOLUSINDO INTEGRA TEKNOLOGI',
   description: 'Privacy Policy for blocktech services and customer data protection',
 }
 
@@ -93,12 +93,12 @@ export default function PrivacyPage() {
               <div className="text-muted-foreground">
                 <p>For any questions about this Privacy Policy or our data practices, please contact us at:</p>
                 <div className="mt-2">
-                  <p>PT Rantai Angka Teknologi</p>
+                  <p>PT SOLUSINDO INTEGRA TEKNOLOGI</p>
                   <p>Komplek Perkantoran Duta Merlin Blok F13</p>
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: admin@blocktech.com</p>
+                  <p>Email: admin@SneakerSpot.com</p>
                   <p>Phone: (021) 50111528</p>
                 </div>
               </div>

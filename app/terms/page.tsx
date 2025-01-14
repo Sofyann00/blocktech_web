@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Terms of Service - PT Rantai Angka Teknologi',
-  description: 'Terms of Service and conditions for using blocktech services',
+  title: 'Terms of Service - PT SOLUSINDO INTEGRA TEKNOLOGI',
+  description: 'Terms of Service and conditions for using SneakerSpot services',
 }
 
 export default function TermsPage() {
@@ -23,7 +23,7 @@ export default function TermsPage() {
                 1. Agreement to Terms
               </h2>
               <p className="text-muted-foreground">
-                By accessing and using the services provided by PT Rantai Angka Teknologi (hereinafter referred to as &quot;blocktech&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
+                By accessing and using the services provided by SneakerSpot (hereinafter referred to as &quot;we&quot; or &quot;our&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
               </p>
             </div>
 
@@ -32,16 +32,16 @@ export default function TermsPage() {
                 2. Products and Services
               </h2>
               <p className="text-muted-foreground">
-                blocktech provides high-performance computing hardware, including but not limited to GPUs and mini servers. All product specifications and prices are subject to change without prior notice.
+                SneakerSpot is a premium sneaker reselling platform. We provide authentic, high-quality sneakers from various brands. All product listings, prices, and availability are subject to change without prior notice. We cannot guarantee the availability of specific models or sizes.
               </p>
             </div>
 
             <div>
               <h2 className="text-xl font-semibold text-foreground mb-3">
-                3. Warranty and Returns
+                3. Authenticity and Returns
               </h2>
               <p className="text-muted-foreground">
-                All products come with manufacturer warranty. Customers must inspect products upon delivery and report any defects within 7 days. Returns are subject to our return policy and must be in original condition with complete packaging.
+                All sneakers sold through our platform are guaranteed authentic. Each pair undergoes thorough authentication before shipping. Customers must inspect products upon delivery and report any issues within 48 hours. Returns are only accepted for authenticity issues or if the item received differs significantly from the description. All returns must be unworn, in original condition with complete packaging.
               </p>
             </div>
 
@@ -50,7 +50,7 @@ export default function TermsPage() {
                 4. Privacy and Data Protection
               </h2>
               <p className="text-muted-foreground">
-                We collect and process personal data in accordance with Indonesian data protection laws. For more information, please refer to our Privacy Policy.
+                We collect and process personal data in accordance with applicable privacy laws. This includes shipping information, payment details, and shopping preferences. For more information, please refer to our Privacy Policy.
               </p>
             </div>
 
@@ -59,7 +59,7 @@ export default function TermsPage() {
                 5. Limitation of Liability
               </h2>
               <p className="text-muted-foreground">
-                PT Rantai Angka Teknologi shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services.
+                SneakerSpot shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from market price fluctuations, delayed shipments, or circumstances beyond our reasonable control.
               </p>
             </div>
 
@@ -79,12 +79,12 @@ export default function TermsPage() {
               <div className="text-muted-foreground">
                 <p>For any questions about these Terms of Service, please contact us at:</p>
                 <div className="mt-2">
-                  <p>PT Rantai Angka Teknologi</p>
+                  <p>SneakerSpot</p>
                   <p>Komplek Perkantoran Duta Merlin Blok F13</p>
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: admin@blocktech.com</p>
+                  <p>Email: support@sneakerspot.com</p>
                   <p>Phone: (021) 50111528</p>
                 </div>
               </div>
