@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Terms of Service - PT SOLUSINDO INTEGRA TEKNOLOGI',
-  description: 'Terms of Service and conditions for using SneakerSpot services',
+  title: 'Terms of Service - T-shirtku',
+  description: 'Terms of Service and conditions for using T-shirtku services',
 }
 
 export default function TermsPage() {
@@ -23,7 +23,7 @@ export default function TermsPage() {
                 1. Agreement to Terms
               </h2>
               <p className="text-muted-foreground">
-                By accessing and using the services provided by SneakerSpot (hereinafter referred to as &quot;we&quot; or &quot;our&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
+                By accessing and using the services provided by T-shirtku (hereinafter referred to as &quot;we&quot; or &quot;our&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
               </p>
             </div>
 
@@ -32,16 +32,16 @@ export default function TermsPage() {
                 2. Products and Services
               </h2>
               <p className="text-muted-foreground">
-                SneakerSpot is a premium sneaker reselling platform. We provide authentic, high-quality sneakers from various brands. All product listings, prices, and availability are subject to change without prior notice. We cannot guarantee the availability of specific models or sizes.
+                T-shirtku is a premium t-shirt retail platform. We provide high-quality t-shirts in various styles, designs, and materials. All product listings, prices, and availability are subject to change without prior notice. We cannot guarantee the availability of specific designs or sizes.
               </p>
             </div>
 
             <div>
               <h2 className="text-xl font-semibold text-foreground mb-3">
-                3. Authenticity and Returns
+                3. Quality and Returns
               </h2>
               <p className="text-muted-foreground">
-                All sneakers sold through our platform are guaranteed authentic. Each pair undergoes thorough authentication before shipping. Customers must inspect products upon delivery and report any issues within 48 hours. Returns are only accepted for authenticity issues or if the item received differs significantly from the description. All returns must be unworn, in original condition with complete packaging.
+                All t-shirts sold through our platform are guaranteed to be of premium quality. Each item undergoes quality control inspection before shipping. Customers must inspect products upon delivery and report any issues within 48 hours. Returns are accepted for quality issues or if the item received differs significantly from the description. All returns must be unworn, with original tags attached, and in original packaging.
               </p>
             </div>
 
@@ -59,7 +59,7 @@ export default function TermsPage() {
                 5. Limitation of Liability
               </h2>
               <p className="text-muted-foreground">
-                SneakerSpot shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from market price fluctuations, delayed shipments, or circumstances beyond our reasonable control.
+                T-shirtku shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from price fluctuations, delayed shipments, or circumstances beyond our reasonable control.
               </p>
             </div>
 
@@ -79,12 +79,12 @@ export default function TermsPage() {
               <div className="text-muted-foreground">
                 <p>For any questions about these Terms of Service, please contact us at:</p>
                 <div className="mt-2">
-                  <p>SneakerSpot</p>
+                  <p>T-shirtku</p>
                   <p>Komplek Perkantoran Duta Merlin Blok F13</p>
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: support@sneakerspot.com</p>
+                  <p>Email: support@t-shirtku.com</p>
                   <p>Phone: (021) 50111528</p>
                 </div>
               </div>

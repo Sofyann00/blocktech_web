@@ -11,44 +11,44 @@ export function Footer() {
             <div className="flex items-center gap-x-2">
               <img 
                 src="/app_icon.png" 
-                alt="SneakerSpot Logo"
+                alt="T-shirtku Logo"
                 width={32}
                 height={32}
               />
-              <span className="text-xl font-bold">SneakerSpot</span>
+              <span className="text-xl font-bold">T-shirtku</span>
             </div>
             <p className="mt-4 text-sm text-muted-foreground leading-relaxed">
-              Your premier destination for authentic Adidas footwear. Discover the latest 
-              collections, limited editions, and classic favorites all in one place.
+              Your ultimate destination for premium t-shirts. From casual basics to 
+              exclusive designs, find the perfect t-shirt to express your unique style.
             </p>
           </div>
 
-          {/* Solutions -> Products */}
+          {/* Products Section */}
           <div className="col-span-1">
             <h3 className="text-lg font-semibold mb-6">Products</h3>
             <ul className="space-y-4">
               <li>
                 <Link
-                  href="/running"
+                  href="/casual"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Running Shoes
+                  Casual T-Shirts
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/lifestyle"
+                  href="/graphic"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Lifestyle Sneakers
+                  Graphic Designs
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/sports"
+                  href="/premium"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Sports Collection
+                  Premium Collection
                 </Link>
               </li>
             </ul>

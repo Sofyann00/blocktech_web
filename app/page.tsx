@@ -72,11 +72,11 @@ export default function Home() {
 
         <div className="max-w-4xl mx-auto relative">
           <h1 className="text-5xl font-bold tracking-tight sm:text-7xl animate-in fade-in slide-in-from-bottom-4 duration-1000">
-            Step Into Innovation & Style
+            Express Yourself Through Fashion
           </h1>
           <p className="mt-8 text-xl leading-8 text-muted-foreground max-w-2xl mx-auto animate-in fade-in slide-in-from-bottom-5 duration-1000 delay-200">
-            Experience premium athletic footwear engineered for performance and designed for style. 
-            From running to training, discover shoes that elevate your game and complement your lifestyle.
+            Discover our collection of premium t-shirts for every style and occasion. 
+            From casual basics to unique designs, find the perfect t-shirt that speaks your language.
           </p>
           <div className="mt-12 flex items-center justify-center gap-x-6">
             <Link href="/marketplace">
@@ -101,7 +101,7 @@ export default function Home() {
           <div className="mx-auto max-w-2xl lg:text-center mb-16">
             <h2 className="text-base font-semibold leading-7 text-primary">Featured Collection</h2>
             <p className="mt-2 text-4xl font-bold tracking-tight sm:text-5xl">
-              Handpicked Performance Footwear
+              Curated T-Shirt Selection
             </p>
           </div>
           
@@ -140,9 +140,9 @@ export default function Home() {
         
         <div className="relative mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl lg:text-center">
-            <h2 className="text-base font-semibold leading-7 text-primary">The Footwear Advantage</h2>
+            <h2 className="text-base font-semibold leading-7 text-primary">The T-Shirt Difference</h2>
             <p className="mt-2 text-4xl font-bold tracking-tight sm:text-5xl">
-              Crafted for Excellence
+              Quality in Every Thread
             </p>
           </div>
           <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
@@ -168,18 +168,18 @@ export default function Home() {
 
 const features = [
   {
-    name: 'Premium Materials',
-    description: 'Carefully selected materials and advanced cushioning technology for ultimate comfort and durability.',
+    name: 'Premium Fabrics',
+    description: 'Carefully selected cotton blends and sustainable materials for ultimate comfort and durability.',
     icon: <Zap className="h-5 w-5 text-primary" />,
   },
   {
-    name: 'Performance Design',
-    description: 'Engineered to enhance athletic performance with innovative features and ergonomic design.',
+    name: 'Versatile Designs',
+    description: 'From minimalist classics to bold statements, our t-shirts cater to every style preference.',
     icon: <Server className="h-5 w-5 text-primary" />,
   },
   {
-    name: 'Quality Assurance',
-    description: 'Rigorous quality control and testing ensure each pair meets our high standards of excellence.',
+    name: 'Quality Craftsmanship',
+    description: 'Each t-shirt undergoes thorough quality checks to ensure perfect stitching and lasting quality.',
     icon: <Shield className="h-5 w-5 text-primary" />,
   },
 ]

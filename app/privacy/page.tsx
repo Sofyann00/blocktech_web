@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy - PT SOLUSINDO INTEGRA TEKNOLOGI',
-  description: 'Privacy Policy for blocktech services and customer data protection',
+  title: 'Privacy Policy - T-shirtku',
+  description: 'Privacy Policy for T-shirtku services and customer data protection',
 }
 
 export default function PrivacyPage() {
@@ -23,7 +23,7 @@ export default function PrivacyPage() {
                 1. Information We Collect
               </h2>
               <p className="text-muted-foreground">
-                PT SOLUSINDO INTEGRA TEKNOLOGI (&quot;blocktech&quot;) collects personal information including but not limited to: name, email address, phone number, shipping address, and payment information when you make a purchase or create an account.
+                T-shirtku collects personal information including but not limited to: name, email address, phone number, shipping address, clothing size preferences, and payment information when you make a purchase or create an account.
               </p>
             </div>
 
@@ -35,10 +35,10 @@ export default function PrivacyPage() {
                 We use your information to:
               </p>
               <ul className="list-disc ml-6 mt-2 text-muted-foreground space-y-1">
-                <li>Process your orders and provide customer support</li>
-                <li>Send important updates about your purchases</li>
-                <li>Improve our products and services</li>
-                <li>Send promotional communications (with your consent)</li>
+                <li>Process your t-shirt orders and provide customer support</li>
+                <li>Send updates about your purchases and shipping status</li>
+                <li>Recommend t-shirt styles and sizes based on your preferences</li>
+                <li>Send promotional communications about new designs and collections (with your consent)</li>
                 <li>Comply with legal obligations</li>
               </ul>
             </div>
@@ -93,12 +93,12 @@ export default function PrivacyPage() {
               <div className="text-muted-foreground">
                 <p>For any questions about this Privacy Policy or our data practices, please contact us at:</p>
                 <div className="mt-2">
-                  <p>PT SOLUSINDO INTEGRA TEKNOLOGI</p>
+                  <p>T-shirtku</p>
                   <p>Komplek Perkantoran Duta Merlin Blok F13</p>
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: admin@SneakerSpot.com</p>
+                  <p>Email: privacy@t-shirtku.com</p>
                   <p>Phone: (021) 50111528</p>
                 </div>
               </div>

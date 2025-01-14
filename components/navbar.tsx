@@ -102,7 +102,7 @@ export function Navbar() {
             width={32}
             height={32}
           />
-          <span className="text-xl font-bold">blocktech</span>
+          <span className="text-xl font-bold">T-shirtku</span>
         </div>
 
         <nav className="mx-6 hidden lg:flex items-center space-x-4 lg:space-x-6">
